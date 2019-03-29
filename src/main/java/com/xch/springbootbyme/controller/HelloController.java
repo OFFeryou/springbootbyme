@@ -4,4 +4,5 @@ import org.springframework.stereotype.Controller;
 
 @Controller
 public class HelloController {
+    private int anInt;
 }
