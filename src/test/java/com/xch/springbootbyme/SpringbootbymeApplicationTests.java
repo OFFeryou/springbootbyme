@@ -18,7 +18,7 @@ public class SpringbootbymeApplicationTests {
     @Test
     public void contextLoads() {
         List<HelloPojo> helloServiceAll = helloService.getAll();
-        System.out.println(helloServiceAll + "666");
+        System.out.println(helloServiceAll + "6661");
     }
 
 }
