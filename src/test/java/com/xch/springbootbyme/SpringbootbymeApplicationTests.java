@@ -2,6 +2,7 @@ package com.xch.springbootbyme;
 
 import com.xch.springbootbyme.pojo.HelloPojo;
 import com.xch.springbootbyme.service.HelloService;
+import org.junit.Assert;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
